@@ -13,7 +13,8 @@
       <link>https://bebras1.github.io/posts/puslapis/</link>
       <pubDate>Sun, 19 Nov 2023 17:07:51 +0200</pubDate>
       <guid>https://bebras1.github.io/posts/puslapis/</guid>
-      <description>Pridedu dar keletą sakinių, kad turinys būtų informatyvesnis ir įdomesnis skaitytojui.</description>
+      <description>Pridedu dar keletą sakinių, kad turinys būtų informatyvesnis ir įdomesnis skaitytojui.
+def hello_world(): print(&amp;#34;Hello, World!&amp;#34;) </description>
     </item>
   </channel>
 </rss>
